@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem neque iste molestiae, veniam vel eligendi harum labore consequuntur temporibus possimus nam, eaque reiciendis illo, laboriosam laborum architecto hic aspernatur adipisci. Excepturi, totam, iure! Ex culpa iste est nobis blanditiis commodi modi ullam cumque reprehenderit quos, dicta deserunt rem inventore. Ratione recusandae praesentium adipisci. Placeat cumque ullam quis amet quae dolorum culpa alias. Possimus molestias illum facilis expedita similique, commodi qui culpa rerum vero, quae dignissimos nemo nostrum temporibus accusantium officia repudiandae odit maiores impedit dolore. Exercitationem a rem modi id maxime laudantium, labore assumenda repudiandae quas et ea atque recusandae ipsum, nisi placeat voluptatem expedita cumque similique voluptas dolor architecto tenetur quibusdam vero? Nesciunt magni, est sint consequuntur consectetur aut reprehenderit ratione cum ipsa quam fuga iure libero optio assumenda beatae omnis reiciendis laudantium eos earum atque aperiam sapiente neque dolor? Sequi, illo temporibus amet nisi quia debitis repellat iure itaque voluptates velit! Beatae nihil aliquid molestias, recusandae at, excepturi quae similique voluptates iste, atque sit unde eveniet quaerat suscipit. Facilis perspiciatis quae, in omnis dignissimos impedit numquam obcaecati laboriosam adipisci consequuntur ratione quas vel, quos cum temporibus repellat. Nihil provident dolorem aperiam dolorum, accusamus perspiciatis perferendis amet, quis libero.
